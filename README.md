@@ -1,4 +1,12 @@
-### Hi there 👋
+# HELLO WORLD!  🌱 I’m currently learning ...
+***
+### 电路分析基础中什么叫关联参考方向
+
+比如说电压与电流吧，对一个二端元件来说如果你选择zhi电压方向为左正右负，而你选择电流从元件的左端流入这时电压与电流就是关联参考方向，如果选择从右端流入这时电压与电流就是非关联的参考方向。
+
+当一段电路上的电流、电压参考方向一致时称他们为关联的参考方向！参考方向确定后其值可正可负当这段电路计算出的功率为正表示这段电路吸收功率（也就是负载）功率为负表示该段电路发出功率（也就是电源）在通俗点讲就是得出功率为正就是吸收功率、负为发出功率，再教你个办法电流的方向指向电源的正极就是负载就是用电器，指向负极就是电源。
+
+![](https://iknow-pic.cdn.bcebos.com/f636afc379310a555748e2e8ba4543a9822610b9?x-bce-process=image/resize,m_lfit,w_600,h_800,limit_1)
 
 <!--
 **yannisme/yannisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
