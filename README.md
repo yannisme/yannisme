@@ -1,7 +1,6 @@
 # HELLO WORLD!  🌱 
 ***
-如果要写一篇详细的内容来介绍自己，这看起来是一件非常令人深思的事情~
-![](https://7r.pw/yannisme/yannisme.jpg)
+Here are some ideas to get you started...
 
 <!--
 **yannisme/yannisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
