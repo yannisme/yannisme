@@ -1,7 +1,8 @@
-# HELLO WORLD!  🌱 
+# HELLO WORLD! 💴
 ***
-Here are some ideas to get you started...
-
+坚持与无私奉献, 可能是当代最大的难题.
+可, 如果我从来都不曾感受到别人的关心呢?
+😐
 <!--
 **yannisme/yannisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
